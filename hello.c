@@ -2,8 +2,8 @@
 
 int main()
 {
-prinf("hello world");
+  printf("hello world");
 
-return 0;
+ return 0;
 }
 
